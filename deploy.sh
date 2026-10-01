@@ -4,7 +4,7 @@
 # Author: o-GuGus
 # Creation Date: 2020-09-28   Revision Date : 2023-04-25
 # Description: Bash script for infrastructure deployment on Debian 
-# Usage: /bin/bash -c "$(curl -sSL https://raw.githubusercontent.com/o-GuGus/AutoInfra/master/deploy.sh)"
+# Usage: /bin/bash -c "$(curl -sSL https://raw.githubusercontent.com/SyNode-IT/AutoInfra/master/deploy.sh)"
 # Notes: Any special notes about the script
 # References: List any references used in the script, such as tutorials or manuals
 ################################################################################
